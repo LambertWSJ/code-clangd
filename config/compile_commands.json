@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-DMACRO_A",
+      "-DMACRO_B",
+      "-DMACRO_C",
+      "-o",
+      "main",
+      "main.c"
+    ],
+    "directory": "/home/lambert-wu/Repos/code-clangd",
+    "file": "/home/lambert-wu/Repos/code-clangd/main.c",
+    "output": "/home/lambert-wu/Repos/code-clangd/main"
+  }
+]
